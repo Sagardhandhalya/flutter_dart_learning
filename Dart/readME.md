@@ -6,7 +6,15 @@ void main() {
 }
 ```
 
-### https://dart.dev/samples
+## [docs](https://dart.dev/samples)
+
+### [Language samples](https://dart.dev/samples)
+
+### [Language tour](https://dart.dev/guides/language/language-tour)
+
+### [Effective Dart](https://dart.dev/guides/language/effective-dart)
+
+### [Asynchronous programming: futures, async, await](https://dart.dev/codelabs/async-await)
 
 ### Inheritance
 
